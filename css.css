@@ -1,0 +1,196 @@
+
+body
+{
+    font-size: 15px;
+    line-height: 1.5;
+    min-height: 100%
+    width:100%; 
+    margin: 0;
+
+}
+.topnav 
+{
+    background-color: #000;
+    overflow: hidden;
+    top: 0;
+    width: 100%;
+    left: 0;
+    shape-outside: 15px;
+    box-shadow: 0 2px 5px ;
+}
+.topnav a  {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 22px;
+    text-decoration: none;
+    font-size: 15px;
+    font-family: "lato";
+}
+.topnav a:hover 
+{
+    background-color: #ddd;
+    color: black;
+}
+.topnav a.active 
+{
+    background-color: #black;
+}
+.fa
+{
+    color: white;
+    float: right;
+    margin-right: 20px;
+    margin-top: 14px;
+}
+.active
+{
+  background: black;
+  font-size: 50px
+}
+.pic
+{   text-align:center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.quotes{
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    transform: translate(-50%,0%);
+    padding-top: 32px !important;
+    padding-bottom: 32px !important;
+}
+.quotes .p1 {
+    font-size: 12px;
+}
+.quotes .p1 {
+    font-weight: 5px
+    font-size: 9px;
+}
+.middle{
+    max-width: 900px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.img-row{
+    text-align: center;
+    float: left;
+    width: 20.33333%;
+}
+.img-1{
+    float: left;
+    text-align: center;
+    font-family: lato;
+    margin: 1.66%;  
+}
+.music {
+    font-style: italic;
+    color: #4d4848;
+}
+.band {
+    font-size: 30px;
+    font-family: lato;
+}
+.top-p2{
+    font-family: lato;
+    font-style: normal;
+    padding-bottom: 30px
+}
+.ul1{
+    border:1px #ddd solid;
+    margin-left: 25%;
+    margin-right: 25%;
+    background: white;
+    color: grey;
+    list-style-type: none;
+    text-align: left;
+    padding-left: 10px;
+    font-size: 18px;
+    height: 4%;
+}
+.book{
+    background: black;
+    max-width: 2000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 500px;
+    padding-bottom: 380px;
+}
+.img-2{
+	width: 200px; 
+    font-family: lato;
+    max-width: 260px;
+	float: left; 
+	padding: 0
+	width: 260px;
+    margin: 0 0 0 50px;
+    background: white 
+}
+.pic1 {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+}
+#div1{
+    max-width: 750px;
+    top: 50%;
+    left: 50%;
+    margin-left: -100px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-right: 440px;
+}
+.img-2 img{
+	max-width: 200px;
+	
+}
+.img-2 p{
+	background: white;
+		}
+.contact p{
+	margin-bottom: 5px;	
+}
+.adress p{
+	padding: 0;
+	margin:0;
+}
+.contact{
+	margin-bottom: 20px;
+}
+.adress{
+	text-align: left;
+	margin-left: 27%;
+	max-width: 300px;
+	max-height: 120px;	
+}
+.formm{
+	margin-left: 300px;
+    transform: translate(200px, -200px);
+	padding-top:100px;
+
+}
+.formm input{
+	padding: 10px;	
+}
+button{
+	background-color: black;
+    margin-left: 100px;
+    padding:10px 12px 10px 12px;
+    margin-top: 7px;
+    border:none;
+    color: white
+}
+.location img{
+	width: 100%;
+	margin-top: 100px;
+}
+footer{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+footer p {
+	color: #5b5959;
+	text-align: center;
+}
